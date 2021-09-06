@@ -1,0 +1,4 @@
+variable "SpotFinOpsManagedPolicy" {
+    type = string
+  
+}
